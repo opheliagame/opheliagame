@@ -2,7 +2,13 @@
 
 ###
 
-<h2 align="center">welcome to opheliagame's github</h2>
+<h3 align="center">welcome to opheliagame's github</h3>
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=opheliagame.opheliagame&"  />
 
 ###
 
@@ -20,17 +26,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=opheliagame.opheliagame&"  />
-</div>
-
-###
-
 <h3 align="left">👩🏻‍💻 about me</h3>
 
 ###
 
-<p align="left">🐣 born in Lucknow, India 📍currently based in Tokyo, Japan<br><br>🌸 I’m working as a mobile application developer<br>🌸 I'm currently learning woodworking and how to sequence things <br>🌸 In my free time I make interactive sketches and watch movies</p>
+<p align="left">🐣 born in Lucknow, India 📍currently based in Tokyo, Japan<br><br>🌸 working as a mobile application developer<br>🌸 currently learning woodworking and how to sequence things <br>🌸 in my free time I make interactive sketches and watch movies</p>
 
 ###
 
@@ -45,14 +45,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" height="40" alt="processing logo"  />
 </div>
 
 ###
 
-<h3 align="left">📓 some of my numbers</h3>
+<h3 align="left">📓 some numbers for us nerds</h3>
 
 ###
 
