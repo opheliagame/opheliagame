@@ -1,29 +1,3 @@
-<img align="right" height="150" src="https://raw.githubusercontent.com/opheliagame/work-images/refs/heads/main/imli.jpeg"  />
-
-###
-
-<h3 align="center">welcome to opheliagame's github</h3>
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=opheliagame.opheliagame&"  />
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/trivedianushka/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/oopheliagame" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@opheliagame" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
 ###
 
 <h3 align="left">👩🏻‍💻 about me</h3>
